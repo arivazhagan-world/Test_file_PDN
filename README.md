@@ -1,4 +1,4 @@
-# Test_file_PDN
+# Test_file_PDN - Digantara Assessment
 Digantara Assessment-PDN load transient testing code 
 So, the equipment we used is that: PSU, DMM, Oscilloscope and E-load.
 
